@@ -1,6 +1,6 @@
 import React from "react";
 import styled from 'styled-components';
-import logo from './Assets/Nasa.png';
+import logo from './Assets/nasa-logo-red.png';
 
 const StyledBrand = styled.div`
 	display: flex;

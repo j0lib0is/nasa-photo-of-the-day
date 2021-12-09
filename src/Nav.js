@@ -6,12 +6,9 @@ const StyledNav = styled.div`
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 24px 0px;
-  h1 {
-    color: ${props => props.theme.colorWhite};
-  }
+	padding: 24px 0px 48px 0px;
   p {
-    color: ${props => props.theme.colorWhite};
+    color: ${props => props.theme.colorGray};
     text-transform: uppercase;
 	  font-size: 0.8rem;
 	  letter-spacing: 0.1rem;
